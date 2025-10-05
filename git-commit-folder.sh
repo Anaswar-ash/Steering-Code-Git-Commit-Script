@@ -38,7 +38,7 @@ main() {
 
     # Provide a default commit message if one isn't supplied.
     if [ -z "$COMMIT_MESSAGE" ]; then
-        COMMIT_MESSAGE="Initial commit"
+        COMMIT_MESSAGE="Initial commit-ment"
         echo -e "${YELLOW}No commit message provided. Using default: \"$COMMIT_MESSAGE\"${NC}"
     fi
 
