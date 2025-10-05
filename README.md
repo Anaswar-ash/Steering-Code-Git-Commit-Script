@@ -1,5 +1,5 @@
 # Steering-Code-Git-Commit-Script
-AI Steering Code: Git Commit Script to Automate Git.
+Steering Code: Git Commit Script to Automate Git.
 Author: Ash.
 Git Commit and Push Folder Script
 A robust Bash shell script to automate the process of initializing a local directory as a Git repository, connecting it to a remote, and pushing all of its contents with a single command.
