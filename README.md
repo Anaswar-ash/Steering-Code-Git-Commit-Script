@@ -1,4 +1,4 @@
-# AI-Steering-Code-Git-Commit-Script
+# Steering-Code-Git-Commit-Script
 AI Steering Code: Git Commit Script to Automate Git.
 Author: Ash.
 Git Commit and Push Folder Script
