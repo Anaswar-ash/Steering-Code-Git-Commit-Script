@@ -1,4 +1,5 @@
 Using the Gemini CLI for Git Commits
+Author: Ash.
 This guide explains the interactive method for using the gemini_cli_prompt.md file to generate conventional commit messages with the Gemini CLI.
 
 This method is great for when you want AI assistance but still want to review and approve the message before committing. It allows you to reuse a detailed, structured prompt without having to type it out every time.
